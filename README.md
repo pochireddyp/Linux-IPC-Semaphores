@@ -20,8 +20,8 @@ Execute the C Program for the desired output.
 
 # PROGRAM:
 ```
-DEVELOPED BY : SYED ABBU REHAN
-REGISTER NO : 212223240165
+DEVELOPED BY : POCHI REDDY.P
+REGISTER NO : 212223240115
 
 ```
 ## Write a C program that implements a producer-consumer system with two processes using Semaphores.
